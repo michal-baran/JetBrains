@@ -4,6 +4,12 @@
     <bytecodeTargetLevel>
       <module name="Problems-Arithmetic_expression_main" target="11" />
       <module name="Problems-Arithmetic_expression_test" target="11" />
+      <module name="Problems-Decrement_all_main" target="11" />
+      <module name="Problems-Decrement_all_test" target="11" />
+      <module name="Problems-Desks_main" target="11" />
+      <module name="Problems-Desks_test" target="11" />
+      <module name="Problems-Difference_of_times_main" target="11" />
+      <module name="Problems-Difference_of_times_test" target="11" />
       <module name="Problems-Digits_from_0_to_9_in_a_single_line_main" target="11" />
       <module name="Problems-Digits_from_0_to_9_in_a_single_line_test" target="11" />
       <module name="Problems-First,_second,_third_main" target="11" />
@@ -12,12 +18,16 @@
       <module name="Problems-First_digit_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
       <module name="Problems-From_0_to_4_test" target="11" />
+      <module name="Problems-Good_rest_on_vacation_main" target="11" />
+      <module name="Problems-Good_rest_on_vacation_test" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_test" target="11" />
       <module name="Problems-Hiring_a_chef_main" target="11" />
       <module name="Problems-Hiring_a_chef_test" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_main" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_test" target="11" />
+      <module name="Problems-Next_even_number_main" target="11" />
+      <module name="Problems-Next_even_number_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
       <module name="Problems-Printing_a_magic_letter_main" target="11" />
@@ -26,14 +36,24 @@
       <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_main" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_test" target="11" />
+      <module name="Problems-Reading_integer_numbers_main" target="11" />
+      <module name="Problems-Reading_integer_numbers_test" target="11" />
       <module name="Problems-Reversing_input_numbers_main" target="11" />
       <module name="Problems-Reversing_input_numbers_test" target="11" />
+      <module name="Problems-Reversing_main" target="11" />
+      <module name="Problems-Reversing_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
+      <module name="Problems-Squirrels_and_nuts_main" target="11" />
+      <module name="Problems-Squirrels_and_nuts_test" target="11" />
       <module name="Problems-The_Hello_World_program_main" target="11" />
       <module name="Problems-The_Hello_World_program_test" target="11" />
+      <module name="Problems-The_number_of_tens_main" target="11" />
+      <module name="Problems-The_number_of_tens_test" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Problems-The_sum_of_digits_main" target="11" />
+      <module name="Problems-The_sum_of_digits_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />

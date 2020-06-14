@@ -24,49 +24,49 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Reading_integer_numbers_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Print_strings_in_the_reverse_order_main" />
+      <module name="Problems-Good_rest_on_vacation_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Reversing_input_numbers_main" />
+      <module name="Problems-Desks_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Snail_main" />
+      <module name="Problems-Decrement_all_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-First_digit_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Arithmetic_expression_main" />
+      <module name="Problems-Reversing_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -84,30 +84,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591984923222">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592128157585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1591863169387" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1591710922333" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591984923222" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591984923222">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592128157585" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592128157584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1591863169387" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1591710922333" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591984923222" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591984923222">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592128157584" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592128157584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1591863169387" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1591710922333" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591984923222" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591984923222">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592128157584" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592128157584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1591863169387" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1591710922333" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591984923222" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592128157584" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591746596103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -128,5 +128,9 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1591746596103" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1591710156406" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1591993983104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591993983104" />
   </component>
 </project>
