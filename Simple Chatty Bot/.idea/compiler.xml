@@ -4,10 +4,20 @@
     <bytecodeTargetLevel>
       <module name="Problems-Arithmetic_expression_main" target="11" />
       <module name="Problems-Arithmetic_expression_test" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_main" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_test" target="11" />
       <module name="Problems-Check_burgs_main" target="11" />
       <module name="Problems-Check_burgs_test" target="11" />
       <module name="Problems-Check_prefix_ignoring_the_case_main" target="11" />
       <module name="Problems-Check_prefix_ignoring_the_case_test" target="11" />
+      <module name="Problems-Check_the_given_numbers_are_different_main" target="11" />
+      <module name="Problems-Check_the_given_numbers_are_different_test" target="11" />
+      <module name="Problems-Check_the_sum_main" target="11" />
+      <module name="Problems-Check_the_sum_test" target="11" />
+      <module name="Problems-Check_the_value__1__main" target="11" />
+      <module name="Problems-Check_the_value__1__test" target="11" />
+      <module name="Problems-Check_the_value_main" target="11" />
+      <module name="Problems-Check_the_value_test" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
@@ -18,6 +28,8 @@
       <module name="Problems-Difference_of_times_test" target="11" />
       <module name="Problems-Digits_from_0_to_9_in_a_single_line_main" target="11" />
       <module name="Problems-Digits_from_0_to_9_in_a_single_line_test" target="11" />
+      <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
+      <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Extracting_a_substring_main" target="11" />
       <module name="Problems-Extracting_a_substring_test" target="11" />
       <module name="Problems-First,_second,_third_main" target="11" />
@@ -28,12 +40,16 @@
       <module name="Problems-From_0_to_4_test" target="11" />
       <module name="Problems-Good_rest_on_vacation_main" target="11" />
       <module name="Problems-Good_rest_on_vacation_test" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_main" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_test" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_test" target="11" />
       <module name="Problems-Hiring_a_chef_main" target="11" />
       <module name="Problems-Hiring_a_chef_test" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_main" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_test" target="11" />
+      <module name="Problems-Is_between_main" target="11" />
+      <module name="Problems-Is_between_test" target="11" />
       <module name="Problems-Next_even_number_main" target="11" />
       <module name="Problems-Next_even_number_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
