@@ -6,6 +6,8 @@
       <module name="Problems-Arithmetic_expression_test" target="11" />
       <module name="Problems-Boys_in_a_sport_class_main" target="11" />
       <module name="Problems-Boys_in_a_sport_class_test" target="11" />
+      <module name="Problems-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems-Check_a_number_is_positive_test" target="11" />
       <module name="Problems-Check_burgs_main" target="11" />
       <module name="Problems-Check_burgs_test" target="11" />
       <module name="Problems-Check_prefix_ignoring_the_case_main" target="11" />
@@ -18,6 +20,8 @@
       <module name="Problems-Check_the_value__1__test" target="11" />
       <module name="Problems-Check_the_value_main" target="11" />
       <module name="Problems-Check_the_value_test" target="11" />
+      <module name="Problems-Chocolate_main" target="11" />
+      <module name="Problems-Chocolate_test" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
@@ -44,12 +48,18 @@
       <module name="Problems-Groundhogs_at_a_party_test" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_test" target="11" />
+      <module name="Problems-Healthy_sleep_main" target="11" />
+      <module name="Problems-Healthy_sleep_test" target="11" />
       <module name="Problems-Hiring_a_chef_main" target="11" />
       <module name="Problems-Hiring_a_chef_test" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_main" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_test" target="11" />
+      <module name="Problems-Interval_main" target="11" />
+      <module name="Problems-Interval_test" target="11" />
       <module name="Problems-Is_between_main" target="11" />
       <module name="Problems-Is_between_test" target="11" />
+      <module name="Problems-Leap_year_main" target="11" />
+      <module name="Problems-Leap_year_test" target="11" />
       <module name="Problems-Next_even_number_main" target="11" />
       <module name="Problems-Next_even_number_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
@@ -60,6 +70,8 @@
       <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_main" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_test" target="11" />
+      <module name="Problems-Queens_main" target="11" />
+      <module name="Problems-Queens_test" target="11" />
       <module name="Problems-Reading_integer_numbers_main" target="11" />
       <module name="Problems-Reading_integer_numbers_test" target="11" />
       <module name="Problems-Replacing_'a'_with_'b'_main" target="11" />
@@ -72,6 +84,10 @@
       <module name="Problems-Snail_test" target="11" />
       <module name="Problems-Squirrels_and_nuts_main" target="11" />
       <module name="Problems-Squirrels_and_nuts_test" target="11" />
+      <module name="Problems-Symmetrical_number_main" target="11" />
+      <module name="Problems-Symmetrical_number_test" target="11" />
+      <module name="Problems-The_army_of_units_main" target="11" />
+      <module name="Problems-The_army_of_units_test" target="11" />
       <module name="Problems-The_Hello_World_program_main" target="11" />
       <module name="Problems-The_Hello_World_program_test" target="11" />
       <module name="Problems-The_number_of_tens_main" target="11" />
@@ -80,6 +96,8 @@
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
       <module name="Problems-The_sum_of_digits_main" target="11" />
       <module name="Problems-The_sum_of_digits_test" target="11" />
+      <module name="Problems-Triangle_main" target="11" />
+      <module name="Problems-Triangle_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
