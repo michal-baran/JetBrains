@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Arithmetic_average_main" target="11" />
+      <module name="Problems-Arithmetic_average_test" target="11" />
       <module name="Problems-Arithmetic_expression_main" target="11" />
       <module name="Problems-Arithmetic_expression_test" target="11" />
       <module name="Problems-Boys_in_a_sport_class_main" target="11" />
@@ -40,10 +42,14 @@
       <module name="Problems-First,_second,_third_test" target="11" />
       <module name="Problems-First_digit_main" target="11" />
       <module name="Problems-First_digit_test" target="11" />
+      <module name="Problems-Fizz_Buzz_main" target="11" />
+      <module name="Problems-Fizz_Buzz_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
       <module name="Problems-From_0_to_4_test" target="11" />
       <module name="Problems-Good_rest_on_vacation_main" target="11" />
       <module name="Problems-Good_rest_on_vacation_test" target="11" />
+      <module name="Problems-Grades_main" target="11" />
+      <module name="Problems-Grades_test" target="11" />
       <module name="Problems-Groundhogs_at_a_party_main" target="11" />
       <module name="Problems-Groundhogs_at_a_party_test" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
@@ -60,8 +66,12 @@
       <module name="Problems-Is_between_test" target="11" />
       <module name="Problems-Leap_year_main" target="11" />
       <module name="Problems-Leap_year_test" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_four_main" target="11" />
+      <module name="Problems-Maximum_element_divisible_by_four_test" target="11" />
       <module name="Problems-Next_even_number_main" target="11" />
       <module name="Problems-Next_even_number_test" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_main" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
       <module name="Problems-Printing_a_magic_letter_main" target="11" />
@@ -80,6 +90,8 @@
       <module name="Problems-Reversing_input_numbers_test" target="11" />
       <module name="Problems-Reversing_main" target="11" />
       <module name="Problems-Reversing_test" target="11" />
+      <module name="Problems-Size_of_parts_main" target="11" />
+      <module name="Problems-Size_of_parts_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
       <module name="Problems-Squirrels_and_nuts_main" target="11" />
@@ -88,14 +100,22 @@
       <module name="Problems-Symmetrical_number_test" target="11" />
       <module name="Problems-The_army_of_units_main" target="11" />
       <module name="Problems-The_army_of_units_test" target="11" />
+      <module name="Problems-The_count_of_numbers_divisible_by_N_main" target="11" />
+      <module name="Problems-The_count_of_numbers_divisible_by_N_test" target="11" />
       <module name="Problems-The_Hello_World_program_main" target="11" />
       <module name="Problems-The_Hello_World_program_test" target="11" />
       <module name="Problems-The_number_of_tens_main" target="11" />
       <module name="Problems-The_number_of_tens_test" target="11" />
+      <module name="Problems-The_product_of_numbers_from_a_to_b_main" target="11" />
+      <module name="Problems-The_product_of_numbers_from_a_to_b_test" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Problems-The_roots_of_an_equation_main" target="11" />
+      <module name="Problems-The_roots_of_an_equation_test" target="11" />
       <module name="Problems-The_sum_of_digits_main" target="11" />
       <module name="Problems-The_sum_of_digits_test" target="11" />
+      <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />
+      <module name="Problems-The_sum_of_integers_from_a_to_b_test" target="11" />
       <module name="Problems-Triangle_main" target="11" />
       <module name="Problems-Triangle_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
