@@ -10,6 +10,8 @@
       <module name="Problems-Boys_in_a_sport_class_test" target="11" />
       <module name="Problems-Bus_tour_main" target="11" />
       <module name="Problems-Bus_tour_test" target="11" />
+      <module name="Problems-Calculating_factorials_main" target="11" />
+      <module name="Problems-Calculating_factorials_test" target="11" />
       <module name="Problems-Check_a_number_is_positive_main" target="11" />
       <module name="Problems-Check_a_number_is_positive_test" target="11" />
       <module name="Problems-Check_burgs_main" target="11" />
@@ -28,6 +30,8 @@
       <module name="Problems-Chocolate_test" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
+      <module name="Problems-Composite_numbers_main" target="11" />
+      <module name="Problems-Composite_numbers_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
       <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Desks_main" target="11" />
@@ -36,12 +40,16 @@
       <module name="Problems-Difference_of_times_test" target="11" />
       <module name="Problems-Digits_from_0_to_9_in_a_single_line_main" target="11" />
       <module name="Problems-Digits_from_0_to_9_in_a_single_line_test" target="11" />
+      <module name="Problems-Division_main" target="11" />
+      <module name="Problems-Division_test" target="11" />
       <module name="Problems-Even_or_odd_main" target="11" />
       <module name="Problems-Even_or_odd_test" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems-Extracting_a_substring_main" target="11" />
       <module name="Problems-Extracting_a_substring_test" target="11" />
+      <module name="Problems-Find_the_max_of_three_numbers_main" target="11" />
+      <module name="Problems-Find_the_max_of_three_numbers_test" target="11" />
       <module name="Problems-First,_second,_third_main" target="11" />
       <module name="Problems-First,_second,_third_test" target="11" />
       <module name="Problems-First_digit_main" target="11" />
@@ -64,6 +72,8 @@
       <module name="Problems-Hiring_a_chef_test" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_main" target="11" />
       <module name="Problems-How_many_nuts_each_squirrel_will_get_test" target="11" />
+      <module name="Problems-Integer_part_of_a_number_main" target="11" />
+      <module name="Problems-Integer_part_of_a_number_test" target="11" />
       <module name="Problems-Interval_main" target="11" />
       <module name="Problems-Interval_test" target="11" />
       <module name="Problems-Is_between_main" target="11" />
@@ -88,6 +98,8 @@
       <module name="Problems-Profit_test" target="11" />
       <module name="Problems-Queens_main" target="11" />
       <module name="Problems-Queens_test" target="11" />
+      <module name="Problems-Raise_to_the_power_main" target="11" />
+      <module name="Problems-Raise_to_the_power_test" target="11" />
       <module name="Problems-Reading_integer_numbers_main" target="11" />
       <module name="Problems-Reading_integer_numbers_test" target="11" />
       <module name="Problems-Replacing_'a'_with_'b'_main" target="11" />
@@ -104,6 +116,8 @@
       <module name="Problems-Squares_of_natural_numbers_test" target="11" />
       <module name="Problems-Squirrels_and_nuts_main" target="11" />
       <module name="Problems-Squirrels_and_nuts_test" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_main" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_test" target="11" />
       <module name="Problems-Symmetrical_number_main" target="11" />
       <module name="Problems-Symmetrical_number_test" target="11" />
       <module name="Problems-The__un_-ordered_sequence_main" target="11" />
@@ -130,12 +144,16 @@
       <module name="Problems-The_sequence__1__test" target="11" />
       <module name="Problems-The_sequence_main" target="11" />
       <module name="Problems-The_sequence_test" target="11" />
+      <module name="Problems-The_sign_of_a_number_main" target="11" />
+      <module name="Problems-The_sign_of_a_number_test" target="11" />
       <module name="Problems-The_sum_of_digits_main" target="11" />
       <module name="Problems-The_sum_of_digits_test" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_test" target="11" />
       <module name="Problems-Triangle_main" target="11" />
       <module name="Problems-Triangle_test" target="11" />
+      <module name="Problems-Vowel_or_not_main" target="11" />
+      <module name="Problems-Vowel_or_not_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
