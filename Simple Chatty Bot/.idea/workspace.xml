@@ -2,16 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b091bf2f-6058-4921-bb61-4faa13f9cda7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/From string to a number/Problems-From_string_to_a_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/From string to a number/Problems-From_string_to_a_number_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/From string to a number/Problems-From_string_to_a_number_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The largest element of a sequence/Problems-The_largest_element_of_a_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The largest element of a sequence/Problems-The_largest_element_of_a_sequence_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The largest element of a sequence/Problems-The_largest_element_of_a_sequence_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Problems-The_sum_of_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Problems-The_sum_of_elements_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The sum of elements/Problems-The_sum_of_elements_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Direction/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Direction/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Direction/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Direction/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Floor-space of the room/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Floor-space of the room/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Floor-space of the room/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Floor-space of the room/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/From string to a number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/From string to a number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/From string to a number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/From string to a number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Shape/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Shape/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Shape/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Shape/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Test learners/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Test learners/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Test learners/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Test learners/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The largest element of a sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The largest element of a sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The largest element of a sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The largest element of a sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/src/bot/SimpleBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/src/bot/SimpleBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Arithmetic average/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Arithmetic average/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Division/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Division/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Find the max of three numbers/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find the max of three numbers/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Grades/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Grades/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The integer barrier/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The integer barrier/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The length of the sequence/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The length of the sequence/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The sequence (1)/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The sequence (1)/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/out/test/classes/PersonalAssistantTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/out/test/classes/PersonalAssistantTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,57 +120,55 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.SimpleBot">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Find_the_max_of_three_numbers_main" />
+      <module name="Problems-A_simple_calculator_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Raise_to_the_power_main" />
+      <module name="Problems-From_string_to_a_number_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Calculating_factorials_main" />
+      <module name="Problems-Floor-space_of_the_room_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Composite_numbers_main" />
+      <module name="Problems-Shape_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
-      <module name="Simple_Chatty_Bot-task_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Test_learners_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleBot" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -111,30 +186,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom" timestamp="1593089463976">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1593353753418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593034324648" />
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353753418" />
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom" timestamp="1593353936717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353936717" />
     <state width="1871" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593089463976" />
-    <state width="1877" height="190" key="GridCell.Tab.0.center" timestamp="1593089463976">
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980534" />
+    <state width="1877" height="190" key="GridCell.Tab.0.center" timestamp="1593353936717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593034324648" />
+    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353936717" />
     <state width="1871" height="190" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593089463976" />
-    <state width="1877" height="190" key="GridCell.Tab.0.left" timestamp="1593089463976">
+    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980534" />
+    <state width="1877" height="190" key="GridCell.Tab.0.left" timestamp="1593353936717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593034324648" />
+    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353936717" />
     <state width="1871" height="190" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593089463976" />
-    <state width="1877" height="190" key="GridCell.Tab.0.right" timestamp="1593089463976">
+    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980533" />
+    <state width="1877" height="190" key="GridCell.Tab.0.right" timestamp="1593353936717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593034324648" />
+    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353936717" />
     <state width="1871" height="190" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593089463976" />
+    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980534" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592822425910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -155,6 +234,10 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1592773410181" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592822425910" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1593353636434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353636434" />
     <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592513394901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
