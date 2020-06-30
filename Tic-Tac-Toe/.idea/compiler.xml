@@ -2,6 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
       <module name="Tic-Tac-Toe-task_main" target="11" />
       <module name="Tic-Tac-Toe-task_test" target="11" />
       <module name="util_main" target="11" />

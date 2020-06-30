@@ -9,12 +9,12 @@ files:
 
         public static void main(String[] args) {
 
-            int[] numbers; // initialize the array
+            long[] longNumbers;
 
-            System.out.println(Arrays.toString(numbers));
+            System.out.println(Arrays.toString(longNumbers));
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2706
+feedback_link: https://hyperskill.org/learn/step/2708
 status: Solved
 record: -1
