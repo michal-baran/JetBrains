@@ -10,6 +10,10 @@
       <module name="Problems-Check_if_an_array_contains_two_numbers_test" target="11" />
       <module name="Problems-Check_if_an_array_is_sorted_ascending_main" target="11" />
       <module name="Problems-Check_if_an_array_is_sorted_ascending_test" target="11" />
+      <module name="Problems-Check_sudoku_main" target="11" />
+      <module name="Problems-Check_sudoku_test" target="11" />
+      <module name="Problems-Cinema_main" target="11" />
+      <module name="Problems-Cinema_test" target="11" />
       <module name="Problems-Collatz_conjecture_main" target="11" />
       <module name="Problems-Collatz_conjecture_test" target="11" />
       <module name="Problems-Count_how_many_times_a_number_occurs_main" target="11" />
@@ -18,6 +22,8 @@
       <module name="Problems-Cyclically_shifting_elements_test" target="11" />
       <module name="Problems-Does_an_array_contain_N_main" target="11" />
       <module name="Problems-Does_an_array_contain_N_test" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_main" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_test" target="11" />
       <module name="Problems-Individual_taxes_main" target="11" />
       <module name="Problems-Individual_taxes_test" target="11" />
       <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
@@ -26,10 +32,24 @@
       <module name="Problems-Initializing_an_array_of_integers_test" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
       <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_main" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_test" target="11" />
+      <module name="Problems-Pretty_looking_pattern_main" target="11" />
+      <module name="Problems-Pretty_looking_pattern_test" target="11" />
       <module name="Problems-Right_Rotation_main" target="11" />
       <module name="Problems-Right_Rotation_test" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_main" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_test" target="11" />
+      <module name="Problems-Spiral_main" target="11" />
+      <module name="Problems-Spiral_test" target="11" />
       <module name="Problems-Sum_array_elements_greater_than_a_value_main" target="11" />
       <module name="Problems-Sum_array_elements_greater_than_a_value_test" target="11" />
+      <module name="Problems-Sum_of_neighbors_main" target="11" />
+      <module name="Problems-Sum_of_neighbors_test" target="11" />
+      <module name="Problems-Swap_the_columns_main" target="11" />
+      <module name="Problems-Swap_the_columns_test" target="11" />
+      <module name="Problems-Symmetric_matrix_main" target="11" />
+      <module name="Problems-Symmetric_matrix_test" target="11" />
       <module name="Problems-The_index_of_the_first_max_in_an_array_main" target="11" />
       <module name="Problems-The_index_of_the_first_max_in_an_array_test" target="11" />
       <module name="Problems-The_longest_ascending_sequence_main" target="11" />
@@ -40,6 +60,8 @@
       <module name="Problems-The_minimum_value_of_an_array_test" target="11" />
       <module name="Problems-The_smallest_value_main" target="11" />
       <module name="Problems-The_smallest_value_test" target="11" />
+      <module name="Problems-The_star_figure_main" target="11" />
+      <module name="Problems-The_star_figure_test" target="11" />
       <module name="Problems-The_sum_of_array_elements_main" target="11" />
       <module name="Problems-The_sum_of_array_elements_test" target="11" />
       <module name="Problems-Triples_main" target="11" />
