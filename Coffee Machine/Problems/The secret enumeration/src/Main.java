@@ -12,9 +12,8 @@ public class Main {
         System.out.println(count);
     }
 }
-/*
+
 //At least two constants start with STAR
 enum Secret {
     STAR, CRASH, START, STARSHIP, STA, FUN// ...
 }
-*/
