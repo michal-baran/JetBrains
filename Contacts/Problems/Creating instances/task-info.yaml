@@ -15,5 +15,11 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9897
-status: Unchecked
+status: Solved
+feedback:
+  message: |-
+    Connection to server was interrupted
+
+    timeout
+  time: Tue, 04 Aug 2020 07:07:07 UTC
 record: -1

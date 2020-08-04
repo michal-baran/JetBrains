@@ -1,69 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b091bf2f-6058-4921-bb61-4faa13f9cda7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/util/util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/util/util_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/util/util_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/task/src/tictactoe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/task/test/TicTacToeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/settings.gradle" afterDir="false" />
+    <list default="true" id="6bcb06f5-517d-41e5-bc3a-1e0fc2da4cd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coffee Machine/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coffee Machine/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Grades/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Grades/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (1)/Fix the program/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (1)/Fix the program/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (1)/Fix the program/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (1)/Fix the program/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (1)/Fix the program/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (1)/Fix the program/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (1)/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (1)/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (2)/What's wrong/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (2)/What's wrong/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (2)/What's wrong/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (2)/What's wrong/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (2)/What's wrong/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (2)/What's wrong/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (2)/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (2)/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (3)/Fix compile-time errors/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (3)/Fix compile-time errors/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (3)/Fix compile-time errors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (3)/Fix compile-time errors/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (3)/Fix compile-time errors/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (3)/Fix compile-time errors/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems (3)/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems (3)/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/A simple calculator/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/A simple calculator/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Alphabetical order/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Alphabetical order/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Alphabetical order/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Alphabetical order/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Alphabetical order/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Alphabetical order/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boxes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boxes/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boxes/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boxes/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boxes/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Boxes/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array contains two numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array contains two numbers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array contains two numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array contains two numbers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array contains two numbers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array contains two numbers/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array is sorted ascending/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array is sorted ascending/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array is sorted ascending/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array is sorted ascending/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array is sorted ascending/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check if an array is sorted ascending/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check sudoku/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check sudoku/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check sudoku/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check sudoku/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check sudoku/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Check sudoku/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cinema/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cinema/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cinema/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cinema/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cinema/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cinema/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Collatz conjecture/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Collatz conjecture/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Collatz conjecture/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Collatz conjecture/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Collatz conjecture/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Collatz conjecture/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Count how many times a number occurs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Count how many times a number occurs/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Count how many times a number occurs/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Count how many times a number occurs/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Count how many times a number occurs/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Count how many times a number occurs/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cyclically shifting elements/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cyclically shifting elements/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cyclically shifting elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cyclically shifting elements/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cyclically shifting elements/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Cyclically shifting elements/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Does an array contain N/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Does an array contain N/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Does an array contain N/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Does an array contain N/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Does an array contain N/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Does an array contain N/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Fill the matrix by numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Fill the matrix by numbers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Fill the matrix by numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Fill the matrix by numbers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Fill the matrix by numbers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Fill the matrix by numbers/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Individual taxes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Individual taxes/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Individual taxes/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Individual taxes/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Individual taxes/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Individual taxes/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of characters/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of characters/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of characters/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of characters/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of characters/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of characters/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of integers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of integers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of integers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of integers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of integers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of integers/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of longs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of longs/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of longs/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of longs/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of longs/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Initializing an array of longs/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Maximum element in a matrix/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Maximum element in a matrix/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Maximum element in a matrix/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Maximum element in a matrix/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Maximum element in a matrix/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Maximum element in a matrix/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Pretty looking pattern/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Pretty looking pattern/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Pretty looking pattern/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Pretty looking pattern/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Pretty looking pattern/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Pretty looking pattern/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Right Rotation/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Right Rotation/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Right Rotation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Right Rotation/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Right Rotation/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Right Rotation/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Rotate a rectange array/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Rotate a rectange array/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Rotate a rectange array/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Rotate a rectange array/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Rotate a rectange array/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Rotate a rectange array/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Spiral/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Spiral/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Spiral/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Spiral/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Spiral/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Spiral/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum array elements greater than a value/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum array elements greater than a value/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum array elements greater than a value/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum array elements greater than a value/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum array elements greater than a value/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum array elements greater than a value/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum of neighbors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum of neighbors/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum of neighbors/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum of neighbors/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum of neighbors/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Sum of neighbors/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Swap the columns/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Swap the columns/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Swap the columns/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Swap the columns/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Swap the columns/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Swap the columns/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Symmetric matrix/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Symmetric matrix/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Symmetric matrix/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Symmetric matrix/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Symmetric matrix/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Symmetric matrix/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The index of the first max in an array/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The index of the first max in an array/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The index of the first max in an array/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The index of the first max in an array/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The index of the first max in an array/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The index of the first max in an array/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The longest ascending sequence/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The longest ascending sequence/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The longest ascending sequence/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The longest ascending sequence/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The longest ascending sequence/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The longest ascending sequence/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The maximum pairwise product/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The maximum pairwise product/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The maximum pairwise product/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The maximum pairwise product/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The maximum pairwise product/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The maximum pairwise product/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The minimum value of an array/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The minimum value of an array/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The minimum value of an array/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The minimum value of an array/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The minimum value of an array/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The minimum value of an array/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The smallest value/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The smallest value/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The smallest value/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The smallest value/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The smallest value/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The smallest value/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The star figure/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The star figure/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The star figure/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The star figure/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The star figure/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The star figure/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The sum of array elements/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The sum of array elements/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The sum of array elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The sum of array elements/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The sum of array elements/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/The sum of array elements/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Triples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Triples/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Triples/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Triples/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Triples/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Triples/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Two numbers never occur next to each other/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Two numbers never occur next to each other/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Two numbers never occur next to each other/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Two numbers never occur next to each other/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Two numbers never occur next to each other/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Problems/Two numbers never occur next to each other/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Fight!/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/First move!/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/The user is the gamemaster/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/Welcome to the battlefield!/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/What's up on the field/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/task/test/TicTacToeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/Tic-Tac-Toe/task/test/TicTacToeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic-Tac-Toe/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -73,10 +184,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Simple Chatty Bot/task/src/bot/SimpleBot.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectId" id="1d56fNXt6tEMQnYSWJoJ5QtMnxR" />
+  <component name="ProjectId" id="1fXR3MniZ1KL6vxH2SfaUXelPGB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -93,133 +201,53 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="ics" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-A_simple_calculator_main" />
+  <component name="RunManager">
+    <configuration name="SimpleBot" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
+      <module name="Simple_Chatty_Bot__1_-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-From_string_to_a_number_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Floor-space_of_the_room_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Shape_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Test_learners_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b091bf2f-6058-4921-bb61-4faa13f9cda7" name="Default Changelist" comment="" />
-      <created>1591702708973</created>
+      <changelist id="6bcb06f5-517d-41e5-bc3a-1e0fc2da4cd7" name="Default Changelist" comment="" />
+      <created>1596362251017</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591702708973</updated>
+      <updated>1596362251017</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1593353753418">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1596366700476">
+      <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353753418" />
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom" timestamp="1593372758593">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1596366700476" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1596366700476">
+      <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593372758593" />
-    <state width="1871" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980534" />
-    <state width="1877" height="190" key="GridCell.Tab.0.center" timestamp="1593372758593">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1596366700476" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1596366700475">
+      <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593372758593" />
-    <state width="1871" height="190" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980534" />
-    <state width="1877" height="190" key="GridCell.Tab.0.left" timestamp="1593372758593">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1596366700475" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1596366700476">
+      <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593372758593" />
-    <state width="1871" height="190" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980533" />
-    <state width="1877" height="190" key="GridCell.Tab.0.right" timestamp="1593372758593">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593372758593" />
-    <state width="1871" height="190" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592920588320" />
-    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593093980534" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592822425910">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1592773410182" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592822425910" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1592822425910">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1592773410181" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592822425910" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1592822425910">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1592773410181" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592822425910" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1592822425910">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1592773410181" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-120.1920.1200@0.0.1920.1040" timestamp="1592822425910" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1593353636434">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593353636434" />
-    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592513394901">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1592513394901" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1592608708002">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1592608708002" />
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591993983104" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593033578008">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1593033578008" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1596366700476" />
   </component>
 </project>

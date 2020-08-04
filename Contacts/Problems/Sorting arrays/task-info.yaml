@@ -14,5 +14,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9896
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9896">JetBrains
+    Academy</a></html>
+  time: Sun, 02 Aug 2020 19:51:05 UTC
 record: -1

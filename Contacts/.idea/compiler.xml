@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Contacts-task_main" target="11" />
+      <module name="Contacts-task_test" target="11" />
+      <module name="Problems-Binary_search_main" target="11" />
+      <module name="Problems-Binary_search_test" target="11" />
+      <module name="Problems-Creating_instances_main" target="11" />
+      <module name="Problems-Creating_instances_test" target="11" />
+      <module name="Problems-Getting_input_main" target="11" />
+      <module name="Problems-Getting_input_test" target="11" />
+      <module name="Problems-Sorting_arrays_main" target="11" />
+      <module name="Problems-Sorting_arrays_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
