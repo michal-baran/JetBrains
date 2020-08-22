@@ -106,6 +106,15 @@ files:
         }
     }
   learner_created: false
+- name: test/Encryption-Decryption-task_test.eml
+  visible: true
+  learner_created: true
+- name: Encryption-Decryption-task.eml
+  visible: true
+  learner_created: true
+- name: src/Encryption-Decryption-task_main.eml
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/46/stages/246/implement
 status: Unchecked
 record: -1

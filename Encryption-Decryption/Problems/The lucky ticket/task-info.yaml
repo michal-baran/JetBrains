@@ -9,6 +9,12 @@ files:
         }
     }
   learner_created: false
+- name: src/Problems-The_lucky_ticket_main.eml
+  visible: true
+  learner_created: true
+- name: Problems-The_lucky_ticket.eml
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/2281
 status: Unchecked
 feedback:

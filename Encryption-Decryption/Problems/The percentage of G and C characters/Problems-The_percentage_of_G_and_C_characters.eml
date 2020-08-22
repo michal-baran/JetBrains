@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../../Problems/The percentage of G and C characters">
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The percentage of G and C characters/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The percentage of G and C characters/build"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The percentage of G and C characters/out"/>
+	</contentEntry>
+</component>

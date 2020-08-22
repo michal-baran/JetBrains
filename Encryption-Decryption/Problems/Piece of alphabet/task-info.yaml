@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+- name: Problems-Piece_of_alphabet.eml
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2285
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2285">JetBrains
+    Academy</a></html>
+  time: Sat, 22 Aug 2020 13:50:05 UTC
+record: -1

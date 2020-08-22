@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../../Problems/Create an euphonious word">
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Create an euphonious word/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Create an euphonious word/build"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Create an euphonious word/out"/>
+	</contentEntry>
+</component>

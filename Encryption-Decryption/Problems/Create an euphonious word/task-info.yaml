@@ -11,6 +11,16 @@ files:
         }
     }
   learner_created: false
+- name: src/Problems-Create_an_euphonious_word_main.eml
+  visible: true
+  learner_created: true
+- name: Problems-Create_an_euphonious_word.eml
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/3791
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3791">JetBrains
+    Academy</a></html>
+  time: Fri, 21 Aug 2020 21:02:02 UTC
 record: -1

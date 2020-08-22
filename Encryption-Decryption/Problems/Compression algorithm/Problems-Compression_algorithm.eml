@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../../Problems/Compression algorithm">
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Compression algorithm/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Compression algorithm/build"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Compression algorithm/out"/>
+	</contentEntry>
+</component>

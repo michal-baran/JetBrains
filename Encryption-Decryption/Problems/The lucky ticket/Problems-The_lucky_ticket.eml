@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../../Problems/The lucky ticket">
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The lucky ticket/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The lucky ticket/build"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The lucky ticket/out"/>
+	</contentEntry>
+</component>

@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+- name: src/Problems-The_longest_word_main.eml
+  visible: true
+  learner_created: true
+- name: Problems-The_longest_word.eml
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2282
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2282">JetBrains
+    Academy</a></html>
+  time: Sat, 22 Aug 2020 11:30:23 UTC
+record: -1
