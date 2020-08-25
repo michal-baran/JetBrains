@@ -1,23 +1,22 @@
 package encryptdecrypt;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        String letters = "abcdefghijklmnopqrstuvwxyz";
-        char[] alphabet = letters.toCharArray();
-        char[] reverse = new char[alphabet.length];
-
-        for (int i = 0; i < reverse.length; i++) {
-            reverse[i] = alphabet[alphabet.length - (1 + i)];
-        }
-
+        Scanner sc = new Scanner(System.in);
         StringBuilder encryption = new StringBuilder();
-        char[] message = ("we found a treasure!").toCharArray();
+        String alphabet = "abcdefghijklmnopqrstuvwxyz";
+
+        char[] message = sc.nextLine().toCharArray();
+        int key = sc.nextInt();
+        String alphabet2 = alphabet.substring(key, alphabet.length()) + alphabet.substring(0, key);
 
         for (char c : message) {
             boolean letterFound = false;
-            for (int j = 0; j < alphabet.length; j++) {
-                if (c == alphabet[j]) {
-                    encryption.append(reverse[j]);
+            for (int i = 0; i < alphabet2.length(); i++) {
+                if (c == alphabet.charAt(i)) {
+                    encryption.append(alphabet2.charAt(i));
                     letterFound = true;
                     break;
                 }
@@ -26,7 +25,6 @@ public class Main {
                 encryption.append(c);
             }
         }
-
         System.out.println(encryption.toString());
     }
 }
