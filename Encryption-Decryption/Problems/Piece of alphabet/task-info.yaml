@@ -9,9 +9,6 @@ files:
         }
     }
   learner_created: false
-- name: Problems-Piece_of_alphabet.eml
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/2285
 status: Solved
 feedback:

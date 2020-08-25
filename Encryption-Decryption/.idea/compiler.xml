@@ -6,12 +6,26 @@
       <module name="Encryption-Decryption-task_test" target="11" />
       <module name="Problems-Compression_algorithm_main" target="11" />
       <module name="Problems-Compression_algorithm_test" target="11" />
+      <module name="Problems-Convert_a_date_main" target="11" />
+      <module name="Problems-Convert_a_date_test" target="11" />
       <module name="Problems-Create_an_euphonious_word_main" target="11" />
       <module name="Problems-Create_an_euphonious_word_test" target="11" />
+      <module name="Problems-Cutting_out_the_middle_of_a_string_main" target="11" />
+      <module name="Problems-Cutting_out_the_middle_of_a_string_test" target="11" />
       <module name="Problems-Double_characters_main" target="11" />
       <module name="Problems-Double_characters_test" target="11" />
       <module name="Problems-Find_the_first_occurrence_of_the_word__the_main" target="11" />
       <module name="Problems-Find_the_first_occurrence_of_the_word__the_test" target="11" />
+      <module name="Problems-Generating_passwords_main" target="11" />
+      <module name="Problems-Generating_passwords_test" target="11" />
+      <module name="Problems-Move_the_first_N_characters_main" target="11" />
+      <module name="Problems-Move_the_first_N_characters_test" target="11" />
+      <module name="Problems-Number_of_occurrences_main" target="11" />
+      <module name="Problems-Number_of_occurrences_test" target="11" />
+      <module name="Problems-Palindrome_main" target="11" />
+      <module name="Problems-Palindrome_test" target="11" />
+      <module name="Problems-Parse_url_main" target="11" />
+      <module name="Problems-Parse_url_test" target="11" />
       <module name="Problems-Piece_of_alphabet_main" target="11" />
       <module name="Problems-Piece_of_alphabet_test" target="11" />
       <module name="Problems-The_longest_word_main" target="11" />
