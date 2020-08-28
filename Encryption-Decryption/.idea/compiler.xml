@@ -6,8 +6,12 @@
       <module name="Encryption-Decryption-task_test" target="11" />
       <module name="Problems-Adding_values_main" target="11" />
       <module name="Problems-Adding_values_test" target="11" />
+      <module name="Problems-Advanced_calculator_main" target="11" />
+      <module name="Problems-Advanced_calculator_test" target="11" />
       <module name="Problems-Application_as_a_class_main" target="11" />
       <module name="Problems-Application_as_a_class_test" target="11" />
+      <module name="Problems-Basic_calculator_main" target="11" />
+      <module name="Problems-Basic_calculator_test" target="11" />
       <module name="Problems-Compression_algorithm_main" target="11" />
       <module name="Problems-Compression_algorithm_test" target="11" />
       <module name="Problems-Convert_a_date_main" target="11" />
@@ -32,6 +36,8 @@
       <module name="Problems-Number_of_occurrences_test" target="11" />
       <module name="Problems-Palindrome_main" target="11" />
       <module name="Problems-Palindrome_test" target="11" />
+      <module name="Problems-Parameters_and_their_values_main" target="11" />
+      <module name="Problems-Parameters_and_their_values_test" target="11" />
       <module name="Problems-Parse_url_main" target="11" />
       <module name="Problems-Parse_url_test" target="11" />
       <module name="Problems-Piece_of_alphabet_main" target="11" />
@@ -40,6 +46,8 @@
       <module name="Problems-Print__We_are_robots!_test" target="11" />
       <module name="Problems-Sorting_numbers_main" target="11" />
       <module name="Problems-Sorting_numbers_test" target="11" />
+      <module name="Problems-The_index_of_an_argument_main" target="11" />
+      <module name="Problems-The_index_of_an_argument_test" target="11" />
       <module name="Problems-The_longest_word_main" target="11" />
       <module name="Problems-The_longest_word_test" target="11" />
       <module name="Problems-The_lucky_ticket_main" target="11" />
