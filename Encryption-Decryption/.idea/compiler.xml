@@ -18,6 +18,8 @@
       <module name="Problems-Basic_calculator_test" target="11" />
       <module name="Problems-Book_main" target="11" />
       <module name="Problems-Book_test" target="11" />
+      <module name="Problems-Classes_for_Hospital_main" target="11" />
+      <module name="Problems-Classes_for_Hospital_test" target="11" />
       <module name="Problems-Complex_main" target="11" />
       <module name="Problems-Complex_test" target="11" />
       <module name="Problems-Compression_algorithm_main" target="11" />
