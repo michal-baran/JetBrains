@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Encryption-Decryption-task_main" target="11" />
       <module name="Encryption-Decryption-task_test" target="11" />
+      <module name="Problems-Account_main" target="11" />
+      <module name="Problems-Account_test" target="11" />
       <module name="Problems-Adding_values_main" target="11" />
       <module name="Problems-Adding_values_test" target="11" />
       <module name="Problems-Advanced_calculator_main" target="11" />
@@ -14,6 +16,10 @@
       <module name="Problems-Army_test" target="11" />
       <module name="Problems-Basic_calculator_main" target="11" />
       <module name="Problems-Basic_calculator_test" target="11" />
+      <module name="Problems-Book_main" target="11" />
+      <module name="Problems-Book_test" target="11" />
+      <module name="Problems-Complex_main" target="11" />
+      <module name="Problems-Complex_test" target="11" />
       <module name="Problems-Compression_algorithm_main" target="11" />
       <module name="Problems-Compression_algorithm_test" target="11" />
       <module name="Problems-Convert_a_date_main" target="11" />
@@ -30,6 +36,8 @@
       <module name="Problems-Generating_passwords_test" target="11" />
       <module name="Problems-Get_first_and_last_elements_main" target="11" />
       <module name="Problems-Get_first_and_last_elements_test" target="11" />
+      <module name="Problems-Getting_the_fullname_main" target="11" />
+      <module name="Problems-Getting_the_fullname_test" target="11" />
       <module name="Problems-Inverse_boolean_flags_main" target="11" />
       <module name="Problems-Inverse_boolean_flags_test" target="11" />
       <module name="Problems-Move_the_first_N_characters_main" target="11" />

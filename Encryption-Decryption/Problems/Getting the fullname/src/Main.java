@@ -8,14 +8,22 @@ class User {
     }
 
     public void setFirstName(String firstName) {
-        // write your code here
+        this.firstName = firstName == null ? "" : firstName;
     }
 
     public void setLastName(String lastName) {
-        // write your code here
+        this.lastName = lastName == null ? "" : lastName;
     }
 
     public String getFullName() {
-        return ""; // write your code here
+        String fullname;
+        if (firstName.isEmpty() & lastName.isEmpty()) {
+            fullname = "Unknown";
+        } else {
+            fullname = firstName + " " + lastName;
+        }
+        fullname.stripTrailing().stripLeading();
+
+        return fullname;
     }
 }
