@@ -18,6 +18,8 @@
       <module name="Problems-Army_test" target="11" />
       <module name="Problems-Avoid_division_by_zero_main" target="11" />
       <module name="Problems-Avoid_division_by_zero_test" target="11" />
+      <module name="Problems-Bank_account_main" target="11" />
+      <module name="Problems-Bank_account_test" target="11" />
       <module name="Problems-Basic_calculator_main" target="11" />
       <module name="Problems-Basic_calculator_test" target="11" />
       <module name="Problems-Book_main" target="11" />
@@ -44,8 +46,12 @@
       <module name="Problems-Double_characters_test" target="11" />
       <module name="Problems-Employee_main" target="11" />
       <module name="Problems-Employee_test" target="11" />
+      <module name="Problems-Employees_main" target="11" />
+      <module name="Problems-Employees_test" target="11" />
       <module name="Problems-Find_the_first_occurrence_of_the_word__the_main" target="11" />
       <module name="Problems-Find_the_first_occurrence_of_the_word__the_test" target="11" />
+      <module name="Problems-Fix_the_non-compiled_hierarchy_main" target="11" />
+      <module name="Problems-Fix_the_non-compiled_hierarchy_test" target="11" />
       <module name="Problems-Generating_passwords_main" target="11" />
       <module name="Problems-Generating_passwords_test" target="11" />
       <module name="Problems-Get_first_and_last_elements_main" target="11" />
