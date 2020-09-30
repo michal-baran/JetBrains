@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
             <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Account Service" />
             <option value="$PROJECT_DIR$/Problems/Adding values" />
             <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
             <option value="$PROJECT_DIR$/Problems/Application as a class" />
@@ -25,6 +26,7 @@
             <option value="$PROJECT_DIR$/Problems/Boxes" />
             <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Problems/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
             <option value="$PROJECT_DIR$/Problems/Complex" />
             <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
             <option value="$PROJECT_DIR$/Problems/Convert a date" />
@@ -44,6 +46,7 @@
             <option value="$PROJECT_DIR$/Problems/Inverse boolean flags" />
             <option value="$PROJECT_DIR$/Problems/Move the first N characters" />
             <option value="$PROJECT_DIR$/Problems/Movie" />
+            <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes" />
             <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
             <option value="$PROJECT_DIR$/Problems/Overloading methods" />
             <option value="$PROJECT_DIR$/Problems/Palindrome" />

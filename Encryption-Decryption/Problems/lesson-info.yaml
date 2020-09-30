@@ -54,3 +54,6 @@ content:
 - Users and WebSites
 - IntBinaryOperation
 - Shape hierarchy
+- Mutable geometric shapes
+- Compact strings with AsciiCharSequence
+- Account Service

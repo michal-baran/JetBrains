@@ -5,6 +5,8 @@
       <module name="Encryption-Decryption-task_main" target="11" />
       <module name="Encryption-Decryption-task_test" target="11" />
       <module name="Problems-Account_main" target="11" />
+      <module name="Problems-Account_Service_main" target="11" />
+      <module name="Problems-Account_Service_test" target="11" />
       <module name="Problems-Account_test" target="11" />
       <module name="Problems-Adding_values_main" target="11" />
       <module name="Problems-Adding_values_test" target="11" />
@@ -30,6 +32,8 @@
       <module name="Problems-Catching_some_exceptions_test" target="11" />
       <module name="Problems-Classes_for_Hospital_main" target="11" />
       <module name="Problems-Classes_for_Hospital_test" target="11" />
+      <module name="Problems-Compact_strings_with_AsciiCharSequence_main" target="11" />
+      <module name="Problems-Compact_strings_with_AsciiCharSequence_test" target="11" />
       <module name="Problems-Complex_main" target="11" />
       <module name="Problems-Complex_test" target="11" />
       <module name="Problems-Compression_algorithm_main" target="11" />
@@ -68,6 +72,8 @@
       <module name="Problems-Move_the_first_N_characters_test" target="11" />
       <module name="Problems-Movie_main" target="11" />
       <module name="Problems-Movie_test" target="11" />
+      <module name="Problems-Mutable_geometric_shapes_main" target="11" />
+      <module name="Problems-Mutable_geometric_shapes_test" target="11" />
       <module name="Problems-Number_of_occurrences_main" target="11" />
       <module name="Problems-Number_of_occurrences_test" target="11" />
       <module name="Problems-Overloading_methods_main" target="11" />
