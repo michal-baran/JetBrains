@@ -24,9 +24,11 @@
             <option value="$PROJECT_DIR$/Problems/Basic calculator" />
             <option value="$PROJECT_DIR$/Problems/Book" />
             <option value="$PROJECT_DIR$/Problems/Boxes" />
+            <option value="$PROJECT_DIR$/Problems/Burger store" />
             <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Problems/Classes for Hospital" />
             <option value="$PROJECT_DIR$/Problems/Clock factory" />
+            <option value="$PROJECT_DIR$/Problems/Clocks" />
             <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
             <option value="$PROJECT_DIR$/Problems/Complex" />
             <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
@@ -45,8 +47,10 @@
             <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
             <option value="$PROJECT_DIR$/Problems/IntBinaryOperation" />
             <option value="$PROJECT_DIR$/Problems/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Problems/Laptop store" />
             <option value="$PROJECT_DIR$/Problems/Max and Min" />
             <option value="$PROJECT_DIR$/Problems/Motor static factory" />
+            <option value="$PROJECT_DIR$/Problems/Motors" />
             <option value="$PROJECT_DIR$/Problems/Move the first N characters" />
             <option value="$PROJECT_DIR$/Problems/Movie" />
             <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes" />
@@ -63,6 +67,8 @@
             <option value="$PROJECT_DIR$/Problems/Print  We are robots!" />
             <option value="$PROJECT_DIR$/Problems/Publication and its subclasses" />
             <option value="$PROJECT_DIR$/Problems/Publications" />
+            <option value="$PROJECT_DIR$/Problems/Robot" />
+            <option value="$PROJECT_DIR$/Problems/Robot factory" />
             <option value="$PROJECT_DIR$/Problems/Saying animals" />
             <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
             <option value="$PROJECT_DIR$/Problems/Shapes area" />
