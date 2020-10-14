@@ -183,6 +183,16 @@ files:
 
     }
   learner_created: false
+- name: src/encryptdecrypt/road_to_treasure.txt
+  visible: true
+  learner_created: true
+- name: src/encryptdecrypt/protected.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/46/stages/250/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/46/stages/250/implement">JetBrains
+    Academy</a>
+  time: Wed, 14 Oct 2020 15:46:15 UTC
 record: -1
