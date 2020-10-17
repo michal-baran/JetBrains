@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems (1)/Distance" />
+            <option value="$PROJECT_DIR$/Problems (2)/Find X" />
+            <option value="$PROJECT_DIR$/Problems (3)/Area of a circle" />
+            <option value="$PROJECT_DIR$/Problems (4)/Exponential expression" />
+            <option value="$PROJECT_DIR$/Problems (5)/Celsius to Fahrenheit" />
+            <option value="$PROJECT_DIR$/Problems (6)/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Problems (7)/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Problems (8)/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Problems/Distance" />
+            <option value="$PROJECT_DIR$/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
