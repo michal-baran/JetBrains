@@ -5,234 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81926eb1-849f-45f7-bbd4-deeb63716528" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Error!/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Error!/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Game log/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Game log/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Game time!/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Game time!/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Grader/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Grader/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Improve the code generator/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Improve the code generator/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/New level/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/New level/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Secret code/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/Secret code/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Bulls_and_Cows.Problems-An_expression_with_large_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Bulls_and_Cows.Problems-An_expression_with_large_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Bulls_and_Cows.Problems-An_expression_with_large_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Bulls_and_Cows.Problems-Comparing_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Bulls_and_Cows.Problems-Comparing_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Bulls_and_Cows.Problems-Comparing_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Bulls_and_Cows.Problems-Double_factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Bulls_and_Cows.Problems-Double_factorial.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Bulls_and_Cows.Problems-Double_factorial.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The smallest value/Bulls_and_Cows.Problems-The_smallest_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The smallest value/Bulls_and_Cows.Problems-The_smallest_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The smallest value/Bulls_and_Cows.Problems-The_smallest_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/An expression with large numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/An expression with large numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/An expression with large numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/An expression with large numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Double factorial/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Double factorial/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Double factorial/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Double factorial/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Distance/Bulls_and_Cows.Problems__1_-Distance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Distance/Bulls_and_Cows.Problems__1_-Distance.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (1)/Distance/Bulls_and_Cows.Problems__1_-Distance.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (10)/Heron's formula/Bulls_and_Cows.Problems__10_-Heron's_formula.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (10)/Heron's formula/Bulls_and_Cows.Problems__10_-Heron's_formula.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (10)/Heron's formula/Bulls_and_Cows.Problems__10_-Heron's_formula.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (11)/Quadratic equation/Bulls_and_Cows.Problems__11_-Quadratic_equation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (11)/Quadratic equation/Bulls_and_Cows.Problems__11_-Quadratic_equation.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (11)/Quadratic equation/Bulls_and_Cows.Problems__11_-Quadratic_equation.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (12)/The angle between vectors/Bulls_and_Cows.Problems__12_-The_angle_between_vectors.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (12)/The angle between vectors/Bulls_and_Cows.Problems__12_-The_angle_between_vectors.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (12)/The angle between vectors/Bulls_and_Cows.Problems__12_-The_angle_between_vectors.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (13)/Gaussian random numbers/Bulls_and_Cows.Problems__13_-Gaussian_random_numbers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (13)/Gaussian random numbers/Bulls_and_Cows.Problems__13_-Gaussian_random_numbers.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (13)/Gaussian random numbers/Bulls_and_Cows.Problems__13_-Gaussian_random_numbers.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (14)/Find the seed/Bulls_and_Cows.Problems__14_-Find_the_seed.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (14)/Find the seed/Bulls_and_Cows.Problems__14_-Find_the_seed.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (14)/Find the seed/Bulls_and_Cows.Problems__14_-Find_the_seed.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (15)/Generate random numbers/Bulls_and_Cows.Problems__15_-Generate_random_numbers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (15)/Generate random numbers/Bulls_and_Cows.Problems__15_-Generate_random_numbers.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (15)/Generate random numbers/Bulls_and_Cows.Problems__15_-Generate_random_numbers.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (2)/Find X/Bulls_and_Cows.Problems__2_-Find_X.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (2)/Find X/Bulls_and_Cows.Problems__2_-Find_X.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (2)/Find X/Bulls_and_Cows.Problems__2_-Find_X.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (3)/Area of a circle/Bulls_and_Cows.Problems__3_-Area_of_a_circle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (3)/Area of a circle/Bulls_and_Cows.Problems__3_-Area_of_a_circle.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (3)/Area of a circle/Bulls_and_Cows.Problems__3_-Area_of_a_circle.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (4)/Exponential expression/Bulls_and_Cows.Problems__4_-Exponential_expression.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (4)/Exponential expression/Bulls_and_Cows.Problems__4_-Exponential_expression.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (4)/Exponential expression/Bulls_and_Cows.Problems__4_-Exponential_expression.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (5)/Celsius to Fahrenheit/Bulls_and_Cows.Problems__5_-Celsius_to_Fahrenheit.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (5)/Celsius to Fahrenheit/Bulls_and_Cows.Problems__5_-Celsius_to_Fahrenheit.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (5)/Celsius to Fahrenheit/Bulls_and_Cows.Problems__5_-Celsius_to_Fahrenheit.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (6)/Evaluate an expression/Bulls_and_Cows.Problems__6_-Evaluate_an_expression.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (6)/Evaluate an expression/Bulls_and_Cows.Problems__6_-Evaluate_an_expression.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (6)/Evaluate an expression/Bulls_and_Cows.Problems__6_-Evaluate_an_expression.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (7)/Liquid pressure/Bulls_and_Cows.Problems__7_-Liquid_pressure.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (7)/Liquid pressure/Bulls_and_Cows.Problems__7_-Liquid_pressure.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (7)/Liquid pressure/Bulls_and_Cows.Problems__7_-Liquid_pressure.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (8)/Difference between two doubles/Bulls_and_Cows.Problems__8_-Difference_between_two_doubles.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (8)/Difference between two doubles/Bulls_and_Cows.Problems__8_-Difference_between_two_doubles.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (8)/Difference between two doubles/Bulls_and_Cows.Problems__8_-Difference_between_two_doubles.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (9)/Pow/Bulls_and_Cows.Problems__9_-Pow.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (9)/Pow/Bulls_and_Cows.Problems__9_-Pow.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems (9)/Pow/Bulls_and_Cows.Problems__9_-Pow.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Bulls_and_Cows.Problems-Distance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Bulls_and_Cows.Problems-Distance.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Bulls_and_Cows.Problems-Distance.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/task/Bulls_and_Cows.task.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/task/Bulls_and_Cows.task.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/task/Bulls_and_Cows.task.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/Grader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/Grader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/RandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/RandomNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/test/BullsCowsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/test/BullsCowsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/classes/BullsCowsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/classes/BullsCowsTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/TEST-BullsCowsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/TEST-BullsCowsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_10213685145534492208_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_11290442937565930583_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_13874394718147421280_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_15587511169840820710_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_389547898599833762_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_4342674591798693242_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_7099782311663738118_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_9325132187565081403_tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/Grader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/Grader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/RandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/RandomNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Grader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Grader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/RandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Error!/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Error!/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Error!/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game log/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game log/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game log/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game time!/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game time!/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game time!/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grader/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grader/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grader/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improve the code generator/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improve the code generator/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improve the code generator/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New level/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New level/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New level/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Area of a circle/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Area of a circle/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Area of a circle/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Area of a circle/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Area of a circle/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Celsius to Fahrenheit/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Celsius to Fahrenheit/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Celsius to Fahrenheit/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Celsius to Fahrenheit/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Celsius to Fahrenheit/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Difference between two doubles/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Difference between two doubles/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Difference between two doubles/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Difference between two doubles/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Difference between two doubles/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Distance/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Distance/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Distance/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Distance/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Distance/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Evaluate an expression/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Evaluate an expression/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Evaluate an expression/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Evaluate an expression/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Exponential expression/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Exponential expression/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Exponential expression/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Exponential expression/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Exponential expression/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find X/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find X/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find X/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find X/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find X/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find the seed/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find the seed/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find the seed/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find the seed/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find the seed/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Gaussian random numbers/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Gaussian random numbers/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Gaussian random numbers/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Gaussian random numbers/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Gaussian random numbers/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Generate random numbers/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Generate random numbers/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Generate random numbers/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Generate random numbers/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Generate random numbers/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Heron's formula/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Heron's formula/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Heron's formula/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Heron's formula/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Heron's formula/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Liquid pressure/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Liquid pressure/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Liquid pressure/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Liquid pressure/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Liquid pressure/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Pow/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Pow/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Pow/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Pow/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Quadratic equation/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Quadratic equation/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Quadratic equation/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Quadratic equation/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Quadratic equation/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The angle between vectors/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The angle between vectors/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The angle between vectors/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The angle between vectors/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The angle between vectors/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Secret code/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Secret code/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Secret code/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MT/.idea/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +64,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1j7543F4rpsUPjFdL4r2PjiVz8Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -271,7 +82,28 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bulls_and_Cows.Problems-An_expression_with_large_numbers.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bulls_and_Cows.Problems-The_smallest_value.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bulls_and_Cows.Problems-Double_factorial.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bullscows.Main" />
       <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" />
@@ -287,6 +119,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -303,25 +138,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1603189659445">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1603224546387">
       <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603189659445" />
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603224546387" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1603182816282" />
-    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1603189659445">
+    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1603224546387">
       <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603189659445" />
+    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603224546387" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1603182816282" />
-    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1603189659445">
+    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1603224546387">
       <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603189659445" />
+    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603224546387" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1603182816281" />
-    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1603189659445">
+    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1603224546387">
       <screen x="0" y="-1200" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603189659445" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.-1200.1920.1200" timestamp="1603224546387" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1200.1920.1200@0.0.1920.1040" timestamp="1603182816282" />
   </component>
 </project>
