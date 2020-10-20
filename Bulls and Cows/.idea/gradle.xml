@@ -11,23 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Problems (1)/Distance" />
-            <option value="$PROJECT_DIR$/Problems (10)/Heron's formula" />
-            <option value="$PROJECT_DIR$/Problems (11)/Quadratic equation" />
-            <option value="$PROJECT_DIR$/Problems (12)/The angle between vectors" />
-            <option value="$PROJECT_DIR$/Problems (13)/Gaussian random numbers" />
-            <option value="$PROJECT_DIR$/Problems (14)/Find the seed" />
-            <option value="$PROJECT_DIR$/Problems (15)/Generate random numbers" />
-            <option value="$PROJECT_DIR$/Problems (2)/Find X" />
-            <option value="$PROJECT_DIR$/Problems (3)/Area of a circle" />
-            <option value="$PROJECT_DIR$/Problems (4)/Exponential expression" />
-            <option value="$PROJECT_DIR$/Problems (5)/Celsius to Fahrenheit" />
-            <option value="$PROJECT_DIR$/Problems (6)/Evaluate an expression" />
-            <option value="$PROJECT_DIR$/Problems (7)/Liquid pressure" />
-            <option value="$PROJECT_DIR$/Problems (8)/Difference between two doubles" />
-            <option value="$PROJECT_DIR$/Problems (9)/Pow" />
-            <option value="$PROJECT_DIR$/Problems/Distance" />
-            <option value="$PROJECT_DIR$/task" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

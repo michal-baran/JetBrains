@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class Grader {
     public static void getAnswer(String code, Scanner sc) {
         int turns = 0;
-        System.out.println("Okay, let's start a game!");
+        System.out.println("Okay, let's start a game!\n");
         char[] codeChar = code.toCharArray();
 
         while (true) {
             turns++;
-            System.out.println("\nTurn " + turns + ":");
+            System.out.println("Turn " + turns + ":");
             char[] answer = sc.nextLine().toCharArray();
             int cows = 0;
             int bulls = 0;
@@ -27,17 +27,17 @@ public class Grader {
             }
             if (bulls > 0) {
                 if (cows > 0) {
-                    System.out.print("Grade: " + bulls + (bulls > 1 ? " bulls" : " bull") + " and " + cows + (cows > 1 ? " cows" : " cow") + ".");
+                    System.out.println("Grade: " + bulls + (bulls > 1 ? " bulls" : " bull") + " and " + cows + (cows > 1 ? " cows" : " cow") + ".");
                 } else {
-                    System.out.print("Grade: " + bulls + (bulls > 1 ? " bulls" : " bull") + ".");
+                    System.out.println("Grade: " + bulls + (bulls > 1 ? " bulls" : " bull") + ".");
                 }
             } else if (cows > 0) {
-                System.out.print("Grade: " + cows + (cows > 1 ? " cows" : " cow") + ".");
+                System.out.println("Grade: " + cows + (cows > 1 ? " cows" : " cow") + ".");
             } else {
-                System.out.print("Grade: None.");
+                System.out.println("Grade: None.");
             }
             if (bulls == codeChar.length) {
-                System.out.print(" The secret code is " + code + ".");
+                System.out.println("Congratulations! You guessed the secret code.");
                 return;
             }
         }
