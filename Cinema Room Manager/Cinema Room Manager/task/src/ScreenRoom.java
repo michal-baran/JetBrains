@@ -12,10 +12,9 @@ public class ScreenRoom {
             }
         }
         totalSeats = r * s;
-        this.Visualize();
     }
 
-    public void BookSeat(Scanner sc) {
+    public void BuyTicket(Scanner sc) {
         System.out.println("Enter a row number:");
         int row = sc.nextInt();
 
@@ -25,7 +24,6 @@ public class ScreenRoom {
         seats[row - 1][seat - 1] = 'B';
 
         System.out.println("Ticket price: $" + (totalSeats > 60 && row > seats.length / 2 ? 8 : 10));
-        this.Visualize();
     }
 
     public void Visualize() {
@@ -47,6 +45,5 @@ public class ScreenRoom {
             }
             System.out.println();
         }
-        System.out.println();
     }
 }

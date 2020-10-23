@@ -531,6 +531,77 @@ files:
         }
     }
   learner_created: false
+- name: src/Profit.java
+  visible: true
+  text: |
+    public class Profit {
+        public static void Calculate(int r, int s) {
+            int seats = r * s;
+            int profit;
+
+            if (seats < 60) {
+                profit = seats * 10;
+            } else {
+                int half = r / 2;
+                profit = (half * 10 + (r - half) * 8) * s;
+            }
+            System.out.println("Total income:\n$" + profit);
+        }
+    }
+  learner_created: true
+- name: src/ScreenRoom.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    public class ScreenRoom {
+        char[][] seats;
+        int totalSeats;
+
+        public ScreenRoom(int r, int s) {
+            seats = new char[r][s];
+            for (int i = 0; i < r; i++) {
+                for (int j = 0; j < s; j++) {
+                    seats[i][j] = 'S';
+                }
+            }
+            totalSeats = r * s;
+        }
+
+        public void BookSeat(Scanner sc) {
+            System.out.println("Enter a row number:");
+            int row = sc.nextInt();
+
+            System.out.println("Enter a seat number in that row:");
+            int seat = sc.nextInt();
+
+            seats[row - 1][seat - 1] = 'B';
+
+            System.out.println("Ticket price: $" + (totalSeats > 60 && row > seats.length / 2 ? 8 : 10));
+        }
+
+        public void Visualize() {
+            System.out.println("\nCinema:");
+            for (int i = 0; i <= seats.length; i++) {
+                for (int j = 0; j <= seats[0].length; j++) {
+                    if (i > 0 && j > 0) {
+                        System.out.print(seats[i - 1][j - 1] + " ");
+                    }
+                    if (i == 0 & j > 0) {
+                        System.out.print(j + " ");
+                    }
+                    if (i > 0 & j == 0) {
+                        System.out.print(i + " ");
+                    }
+                    if (i == 0 & j == 0) {
+                        System.out.print("  ");
+                    }
+                }
+                System.out.println();
+            }
+        }
+    }
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/133/stages/713/implement
 status: Unchecked
 record: -1
