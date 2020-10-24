@@ -531,24 +531,6 @@ files:
         }
     }
   learner_created: false
-- name: src/Profit.java
-  visible: true
-  text: |
-    public class Profit {
-        public static void Calculate(int r, int s) {
-            int seats = r * s;
-            int profit;
-
-            if (seats < 60) {
-                profit = seats * 10;
-            } else {
-                int half = r / 2;
-                profit = (half * 10 + (r - half) * 8) * s;
-            }
-            System.out.println("Total income:\n$" + profit);
-        }
-    }
-  learner_created: true
 - name: src/ScreenRoom.java
   visible: true
   text: |-
@@ -603,5 +585,9 @@ files:
     }
   learner_created: true
 feedback_link: https://hyperskill.org/projects/133/stages/713/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/133/stages/713/implement">JetBrains
+    Academy</a>
+  time: Sat, 24 Oct 2020 23:46:48 UTC
 record: -1

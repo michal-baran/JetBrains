@@ -10,25 +10,29 @@ public class Cinema {
         int seats = sc.nextInt();
 
         ScreenRoom screenRoom = new ScreenRoom(rows, seats);
-        int selected;
+        showMenu(sc, screenRoom);
+    }
 
-        do {
+    public static void showMenu(Scanner sc, ScreenRoom screenRoom) {
+        while (true) {
             System.out.println("\n1. Show the seats\n" +
                     "2. Buy a ticket\n" +
+                    "3. Statistics\n" +
                     "0. Exit");
-            selected = sc.nextInt();
-            switch (selected) {
+
+            switch (sc.nextInt()) {
                 case 1:
                     screenRoom.Visualize();
                     break;
                 case 2:
                     screenRoom.BuyTicket(sc);
                     break;
-                default:
+                case 3:
+                    screenRoom.ShowStatistics();
                     break;
+                case 0:
+                    return;
             }
-        } while (selected != 0);
-
-
+        }
     }
 }

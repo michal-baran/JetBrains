@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CinemaTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-22T13:47:12" hostname="MICHALB1" time="0.577">
+<testsuite name="CinemaTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-24T23:46:46" hostname="MICHALB1" time="1.498">
   <properties/>
-  <testcase name="start" classname="CinemaTests" time="0.577"/>
+  <testcase name="start" classname="CinemaTests" time="1.498"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Enter the number of rows:
@@ -11,6 +11,7 @@ Enter the number of seats in each row:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 0
 ?[1;31m
@@ -22,6 +23,7 @@ Enter the number of seats in each row:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -37,6 +39,7 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 Enter the number of rows:
 > 2
@@ -45,6 +48,7 @@ Enter the number of seats in each row:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -55,6 +59,7 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 Enter the number of rows:
 > 9
@@ -63,6 +68,7 @@ Enter the number of seats in each row:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -80,6 +86,7 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 0
 ?[1;31m
@@ -91,6 +98,7 @@ Enter the number of seats in each row:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 2
 Enter a row number:
@@ -101,6 +109,7 @@ Ticket price: $10
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -116,6 +125,7 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 2
 Enter a row number:
@@ -126,6 +136,7 @@ Ticket price: $10
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -141,6 +152,7 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 ?[1;31m
 Start test 4?[0m
@@ -151,6 +163,7 @@ Enter the number of seats in each row:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 2
 Enter a row number:
@@ -161,6 +174,7 @@ Ticket price: $10
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 2
 Enter a row number:
@@ -171,6 +185,7 @@ Ticket price: $10
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -188,6 +203,7 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 2
 Enter a row number:
@@ -198,6 +214,7 @@ Ticket price: $8
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -215,6 +232,7 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 2
 Enter a row number:
@@ -225,6 +243,7 @@ Ticket price: $8
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
 0. Exit
 > 1
 
@@ -242,6 +261,890 @@ Cinema:
 
 1. Show the seats
 2. Buy a ticket
+3. Statistics
+0. Exit
+?[1;31m
+Start test 5?[0m
+Enter the number of rows:
+> 9
+Enter the number of seats in each row:
+> 9
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 3
+
+Number of purchased tickets: 0
+Percentage: 0.00%
+Current income: $0
+Total income: $720
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 1
+Enter a seat number in that row:
+> 1
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 1
+Enter a seat number in that row:
+> 5
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 1
+Enter a seat number in that row:
+> 7
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 3
+
+Number of purchased tickets: 3
+Percentage: 3.70%
+Current income: $30
+Total income: $720
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 1
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 5
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 7
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 3
+
+Number of purchased tickets: 6
+Percentage: 7.41%
+Current income: $54
+Total income: $720
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 1
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 2
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 3
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 4
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 5
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 6
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 7
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 8
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 1
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 2
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 3
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 4
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 5
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 6
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 7
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 8
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 1
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 2
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 3
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 4
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 5
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 6
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 7
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 4
+Enter a seat number in that row:
+> 8
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 1
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 2
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 3
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 4
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 5
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 6
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 7
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 8
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 1
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 2
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 3
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 4
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 5
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 6
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 7
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 8
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 1
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 2
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 3
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 4
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 5
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 6
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 7
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 7
+Enter a seat number in that row:
+> 8
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 1
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 2
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 3
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 4
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 5
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 6
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 7
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 8
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 1
+That ticket has already been purchased!
+
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 9
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 9
+That ticket has already been purchased!
+
+Enter a row number:
+> 3
+Enter a seat number in that row:
+> 2
+That ticket has already been purchased!
+
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 4
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 5
+That ticket has already been purchased!
+
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 9
+That ticket has already been purchased!
+
+Enter a row number:
+> 6
+Enter a seat number in that row:
+> 2
+That ticket has already been purchased!
+
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 7
+That ticket has already been purchased!
+
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 9
+That ticket has already been purchased!
+
+Enter a row number:
+> 8
+Enter a seat number in that row:
+> 3
+That ticket has already been purchased!
+
+Enter a row number:
+?[1;31m
+Start test 6?[0m
+Enter the number of rows:
+> 9
+Enter the number of seats in each row:
+> 9
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 1
+Enter a seat number in that row:
+> 1
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 1
+Enter a seat number in that row:
+> 1
+That ticket has already been purchased!
+
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 5
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 9
+Enter a seat number in that row:
+> 5
+That ticket has already been purchased!
+
+Enter a row number:
+> 2
+Enter a seat number in that row:
+> 3
+Ticket price: $10
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+> 2
+Enter a row number:
+> 10
+Enter a seat number in that row:
+> 1
+Wrong input!
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 10
+Wrong input!
+Enter a row number:
+> -5
+Enter a seat number in that row:
+> 12
+Wrong input!
+Enter a row number:
+> 5
+Enter a seat number in that row:
+> 5
+Ticket price: $8
+
+1. Show the seats
+2. Buy a ticket
+3. Statistics
 0. Exit
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
