@@ -1,0 +1,38 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner; // do not remove the import
+
+    class Circle {
+        private double radius;
+
+        public Circle(double radius) {
+            this.radius = radius;
+        }
+    }
+
+    // do not change the interface
+    interface Measurable {
+        double square();
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11362
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:22: error: cannot find symbol
+            Scanner scanner = new Scanner(System.in);
+            ^
+      symbol:   class Scanner
+      location: class Main
+    Main.java:22: error: cannot find symbol
+            Scanner scanner = new Scanner(System.in);
+                                  ^
+      symbol:   class Scanner
+      location: class Main
+    2 errors
+  time: Mon, 09 Nov 2020 22:44:16 UTC
+record: -1
