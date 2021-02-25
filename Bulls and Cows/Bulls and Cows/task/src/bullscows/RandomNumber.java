@@ -43,7 +43,7 @@ public class RandomNumber {
             System.out.print("*");
         }
         if (n <= 10) {
-            System.out.print(" (0-" + Character.toString(n + 47) + ")\n");
+            System.out.print(" (0-" + Character.toString(n + 47) + "")\n"));
         } else {
             System.out.print(" (0-9, a-" + Character.toString(n + 86) + ")\n");
         }
